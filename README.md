@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YangChengxxyy
 - 👀 I’m interested in Web development and Mobile Development
-- 🌱 I’m currently learning Flutter kotlin
+- 🌱 I’m currently learning Flutter and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 853364106@qq.com
 - WeChat  YangChengxxyy
