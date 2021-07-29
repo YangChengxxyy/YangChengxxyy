@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 853364106@qq.com
 - WeChat  YangChengxxyy
-- bolg  halo.yycccloud.cn
+- Bolg  halo.yycccloud.cn
 - Cloud cloudreve.yycccloud.cn
 
 <!---
