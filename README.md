@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Flutter and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 853364106@qq.com
-- WeChat  YangChengxxyy
-- Bolg  [林夕こ的日常](https://halo.yycccloud.cn)
+- WeChat  YangChengxxyy<!-- - Bolg  [林夕こ的日常](https://halo.yycccloud.cn) -->
 - Cloud [Cloudreve](https://cloudreve.yycccloud.cn)
 
 <!---
